@@ -97,12 +97,12 @@ The game application uses the following template view to be displayed.
 
         - this div will display how many levels have cleared.
 
-## USER STORY / WIREFRAME
+## USER STORY / img/WIREFRAME
 
 - **about game**
 
         DISPLAY
-<img src ="wireframe/follow me wireframing-01.jpg" width= "100%">
+<img src ="img/wireframe/follow me wireframing-01.jpg" width= "100%">
         
         USER
         - players will see a brief description of game
@@ -126,7 +126,7 @@ The game application uses the following template view to be displayed.
 - **MAIN PAGE**
 
         DISPLAY
-<img src ="wireframe/follow me wireframing-02.jpg" width= "100%">
+<img src ="img/wireframe/follow me wireframing-02.jpg" width= "100%">
         
         USER
         - can click start game to start
@@ -147,8 +147,8 @@ The game application uses the following template view to be displayed.
         - dialouge will automate to next dialogue after 3secs
         - After 3 secs, AI-board will play sequence.
 
-<img src ="wireframe/follow me wireframing-03.jpg" width= "100%">
-<img src ="wireframe/follow me wireframing-04.jpg" width= "100%">
+<img src ="img/wireframe/follow me wireframing-03.jpg" width= "100%">
+<img src ="img/wireframe/follow me wireframing-04.jpg" width= "100%">
 
         INTERACTION
         - After AI play sequence, it will prompt user through the dialogue that it is player turn. 
@@ -158,15 +158,15 @@ The game application uses the following template view to be displayed.
         - the next round will start. the process repeats for each level with added difficulties. 
         
 
-<img src ="wireframe/follow me wireframing-05.jpg" width= "100%">
+<img src ="img/wireframe/follow me wireframing-05.jpg" width= "100%">
 
-<img src ="wireframe/follow me wireframing-06.jpg" width= "100%">
+<img src ="img/wireframe/follow me wireframing-06.jpg" width= "100%">
 
-<img src ="wireframe/follow me wireframing-07.jpg" width= "100%">
+<img src ="img/wireframe/follow me wireframing-07.jpg" width= "100%">
 
-<img src ="wireframe/follow me wireframing-08.jpg" width= "100%">
+<img src ="img/wireframe/follow me wireframing-08.jpg" width= "100%">
 
-<img src ="wireframe/follow me wireframing-09.jpg" width= "100%">
+<img src ="img/wireframe/follow me wireframing-09.jpg" width= "100%">
 
 
         INTERACTION (Scenario : Player failed and game ends)
@@ -174,14 +174,14 @@ The game application uses the following template view to be displayed.
         - div #epilogue will appear giving player a summary of how many levels clear, and depending on the number of levels cleared, will display the appropriate message to encourage players. 
         - players can click play again button to play again. 
 
-<img src ="wireframe/follow me wireframing-10.jpg" width= "100%">
-<img src ="wireframe/follow me wireframing-11.jpg" width= "100%">
+<img src ="img/wireframe/follow me wireframing-10.jpg" width= "100%">
+<img src ="img/wireframe/follow me wireframing-11.jpg" width= "100%">
 
         INTERACTION (Scenario : Player clicked about app button)
         - player clicked on about app button, the about game will pop up with updated information
 
-<img src ="wireframe/follow me wireframing-12.jpg" width= "100%">
-<img src ="wireframe/follow me wireframing-13.jpg" width= "100%">
+<img src ="img/wireframe/follow me wireframing-12.jpg" width= "100%">
+<img src ="img/wireframe/follow me wireframing-13.jpg" width= "100%">
 
 ## GAME LOGIC 
 
