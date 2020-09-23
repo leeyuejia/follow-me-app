@@ -7,13 +7,14 @@ Follow-Me application is a simple game where AI plays a sequence of box arranged
 - [On codeSandBox](#https://codesandbox.io/s/competent-mcnulty-00yb5?file=/src/index.js)
 - [GitHub IO](#https://leeyuejia.github.io/follow-me_app/follow-me.html)
 - [Project Github Repo](https://github.com/leeyuejia/leeyuejia.github.io/tree/master/follow-me_app)
+- [github pages](https://leeyuejia.github.io/follow-me-app/)
 
 ## Contents:
 
 - css folder
 - img folder
 - js folder
-- follow-me.html 
+- index.html 
 - Pre-scope.md
 - Project-scope.md
 - readme.md
