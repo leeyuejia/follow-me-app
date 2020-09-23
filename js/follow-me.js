@@ -93,6 +93,7 @@ const avatarPic = () => {
     promisefinal.then(data => {
         let imageBox = $("#image-avatar > img")
         let ff7 = data.filter(el => el.origin === "Final Fantasy 07")
+        console.log(ff7)
         imageBox.attr('src', ff7[0].picture)
     }
     )
